@@ -1,6 +1,6 @@
 # incognito_app
 
-This repository is a group project, also a mini game called "Incognito Quiz", it is a group project between me and my classmates, here are their GitHub: Matt https://github.com/fromwhence and Myalisa https://github.com/myalisa
+This repository is a mini game called "Incognito Quiz", it is a group project between me and my classmates from a coding bootcamp, here are their GitHub: Matt https://github.com/fromwhence and Myalisa https://github.com/myalisa
 
 
 ## Project setup
